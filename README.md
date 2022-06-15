@@ -21,6 +21,7 @@ I am a crypto -enthusiast, -validator and -ambassador. <img src="https://media.g
 - <img alt="GitHub followers" src="https://img.shields.io/github/followers/MikhailFF?style=social">
 
 ### :writing_hand: Blog Posts :
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
