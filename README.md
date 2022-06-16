@@ -15,7 +15,7 @@ I am a crypto -enthusiast, -validator and -ambassador. <img src="https://media.g
 
 - :zap: I'm validating the Gravity Bridge network. Validator name BigBro
 
-- :mailbox:How to reach me: 
+:mailbox:How to reach me: 
 - [![Medium Badge](https://img.shields.io/badge/-BigBro-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@big.bro)
 - ![Twitter Badge](https://img.shields.io/badge/-ford_mikhail-white?style=flat&logo=Twitter&logoColor=blue)
 - <img alt="GitHub followers" src="https://img.shields.io/github/followers/MikhailFF?style=social">
